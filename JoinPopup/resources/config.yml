@@ -1,0 +1,14 @@
+#couleur du pseudo de sa premiere connection
+color-first-connection: "§1"
+#couleur du pseudo a chaque connection
+color-join: "§a"
+#couleur du pseudo a chaque déconnection
+color-leave: "§c"
+#message de premiere connection (attention tous le monde le vois)
+first-connection: "et nouveau !"
+#message de connection (attention tous le monde le vois)
+message-join: "+"
+#message de déconnection (attention ous le monde le vois)
+message-leave: "-"
+#message de connection
+welcome-message: "welcome"
